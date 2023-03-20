@@ -1,0 +1,42 @@
+.card{
+    width: 500px;
+    height: 700px;
+    background-color:rgb(252, 252, 253);
+    border-radius: 10px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-image: url(https://rozavetrov-ural.ru/upload/iblock/d88/d88c38cecc2e0ee205e783c3944a298e.png);
+    background-size: 450px;
+    background-position: top;
+    background-repeat: no-repeat;
+    }
+    .text{
+        padding-top:500px;
+        padding-left:20px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .text-2{
+        padding:2px;
+        border: 2px solid;
+        border-radius: 5px;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%); 
+        width: 150px;
+        text-align: center;
+        color: white;
+        }
+
+    .grey{
+    color: rgb(100, 107, 107);
+    display:inline-block;
+    padding: 10px;
+    }
+    

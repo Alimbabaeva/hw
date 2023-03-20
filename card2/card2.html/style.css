@@ -1,0 +1,12 @@
+
+
+.container {
+  width: 500px;  
+  height: 700px;
+  background-color: rgb(225, 235, 235);
+ background-image: url("https://www.travelweekly.com.au/wp-content/uploads/2015/08/1280px-Lonely_Planet.jpg");
+ background-repeat:no-repeat;
+ background-size: 500px;
+
+}
+ 
